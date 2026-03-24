@@ -14,9 +14,9 @@
 
 
 
-⸻
+---
 
-🧠 Why This Exists
+## 🧠 Why This Exists
 
 Most dashboards fail quietly.
 
@@ -27,9 +27,9 @@ This project focuses on the part most people ignore:
 
 👉 building a system where every number can be trusted
 
-⸻
+---
 
-⚡ What This Actually Is
+## ⚡ What This Actually Is
 
 This is not just a Power BI dashboard.
 
@@ -42,9 +42,9 @@ Where:
 	•	assumptions are tested
 	•	and outputs are verified before visualisation
 
-⸻
+---
 
-🎥 Dashboard Experience
+## 🎥 Dashboard Experience
 
 <p align="center">
   <img src="YOUR_IMAGE_LINK_HERE" width="900"/>
@@ -57,9 +57,9 @@ Where:
 
 
 
-⸻
+---
 
-🧬 System Architecture
+## 🧬 System Architecture
 
 flowchart LR
     A[Raw E-Commerce Data] --> B[Python Cleaning & Transformation]
@@ -68,9 +68,9 @@ flowchart LR
     D --> E[Business Decisions]
 
 
-⸻
+---
 
-🧩 Core Capabilities
+## 🧩 Core Capabilities
 
 🔥 Executive Layer (KPIs)
 	•	Orders (Latest Month)
@@ -80,43 +80,43 @@ flowchart LR
 
 👉 Immediate visibility into business health
 
-⸻
+---
 
-📈 Temporal Intelligence
+## 📈 Temporal Intelligence
 	•	Monthly sales trends
 	•	Demand fluctuations
 	•	Customer churn patterns
 
 👉 Understand when things change and why
 
-⸻
+---
 
-🛒 Product Intelligence
+## 🛒 Product Intelligence
 	•	Category contribution
 	•	High-performing segments
 	•	Product maturity impact
 
 👉 Supports pricing & inventory decisions
 
-⸻
+---
 
-💳 Payment Behaviour
+## 💳 Payment Behaviour
 	•	Payment distribution analysis
 	•	Revenue share per method
 
 👉 Identifies checkout optimisation opportunities
 
-⸻
+---
 
-🔗 Basket Intelligence
+## 🔗 Basket Intelligence
 	•	Frequently co-purchased products
 	•	Category pair lift
 
 👉 Drives cross-sell strategy
 
-⸻
+---
 
-🔬 Data Engineering Layer (Where the real work happens)
+## 🔬 Data Engineering Layer (Where the real work happens)
 
 This is where most dashboards break.
 
@@ -132,32 +132,32 @@ This system handles:
 Clean → Build → Validate → Break → Fix → Repeat
 
 
-⸻
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Core
+## Core
 	•	Python → Data cleaning (Pandas, NumPy)
 	•	SQL (PostgreSQL) → Data modelling
 	•	Power BI → Visualisation (DAX, dashboards)
 
-Concepts
+## Concepts
 	•	Data Modelling (Snowflake Schema)
 	•	Feature Engineering
 	•	KPI Design
 	•	Analytical Thinking
 
-⸻
+---
 
-⚙️ Performance & Design Principles
+## ⚙️ Performance & Design Principles
 	•	Built on validated, not assumed data
 	•	Structured for fast query performance
 	•	Designed for scalable analytics workflows
 	•	Focused on decision clarity over visual complexity
 
-⸻
+---
 
-🧠 Key Insight (What most people miss)
+## 🧠 Key Insight (What most people miss)
 
 The hardest part wasn’t building the dashboard.
 
@@ -168,36 +168,32 @@ It was:
 👉 fixing it
 👉 and rebuilding everything again
 
-⸻
+---
 
-💡 What This Project Demonstrates
+## 💡 What This Project Demonstrates
 	•	Ability to handle messy real-world data
 	•	Strong end-to-end ownership
 	•	Understanding of data reliability
 	•	Building systems, not just outputs
 
-⸻
+---
 
-🖥️ How It Works
+## 🖥️ How It Works
 	1.	Raw data is ingested
 	2.	Cleaned using Python pipelines
 	3.	Structured into SQL tables
 	4.	Connected to Power BI
 	5.	Insights delivered through interactive dashboards
 
-⸻
+---
 
-📫 Connect
+## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/faheemb">
     <img src="https://img.shields.io/badge/LinkedIn-Faheem%20Bhat-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
-
-
-⸻
 
 ⭐ If this resonates
 
